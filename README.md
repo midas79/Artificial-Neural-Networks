@@ -1,5 +1,6 @@
 # Tugas Praktikum JST
  - McCulloch Pitts Neuron
- - Postes 1
+ - Post Test 1
  - Hebb Net
+ - Post Test 2
  - Perceptron
