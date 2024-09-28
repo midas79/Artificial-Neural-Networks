@@ -5,3 +5,4 @@
  - Post Test 2
  - Perceptron
  - Post Test 3
+ - Adaline
