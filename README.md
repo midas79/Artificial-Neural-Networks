@@ -9,3 +9,4 @@
  - Post Test 4
  - Madaline
  - SOM
+ - Backpropagation
