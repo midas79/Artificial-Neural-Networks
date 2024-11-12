@@ -10,3 +10,4 @@
  - Madaline
  - SOM
  - Backpropagation
+ - Learning Vector Quantization
