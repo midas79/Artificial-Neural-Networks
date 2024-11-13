@@ -9,5 +9,6 @@
  - Post Test 4
  - Madaline
  - SOM
+ - Post Test 6
  - Backpropagation
  - Learning Vector Quantization
