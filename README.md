@@ -12,3 +12,4 @@
  - Post Test 6
  - Backpropagation
  - Learning Vector Quantization
+ - ELM
